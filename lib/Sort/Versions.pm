@@ -1,5 +1,5 @@
 package Sort::Versions;
-$Sort::Versions::VERSION = '1.5_01';
+$Sort::Versions::VERSION = '1.60';
 # Copyright (c) 1996, Kenneth J. Albanowski. All rights reserved.  This
 # program is free software; you can redistribute it and/or modify it under
 # the same terms as Perl itself.
@@ -132,6 +132,11 @@ With perl 5.6 or later, you can also use this function directly in sorting:
 
 The function C<versions()> can be used directly as a sort function even on
 perl 5.005 and earlier, but its use is deprecated.
+
+=head1 SEE ALSO
+
+L<version>, L<CPAN::Version> which is part of the L<CPAN> distribution.
+
 
 =head1 REPOSITORY
 

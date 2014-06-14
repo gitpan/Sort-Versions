@@ -23,4 +23,4 @@ requires:
 resources:
   homepage: https://github.com/neilbowers/Sort-Versions
   repository: https://github.com/neilbowers/Sort-Versions.git
-version: 1.5_01
+version: '1.60'
